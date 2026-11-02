@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">yaya's Agent workbench</title>
+  <desc id="description">Make agents useful. A dark workbench with mint tool, context, and workflow cards connected to a small agent.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111D28"/>
+      <stop offset="1" stop-color="#0C121B"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A8C7C4" opacity=".1"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="339" rx="18" fill="url(#surface)" stroke="#253641"/>
+  <rect x="700" y="1" width="499" height="338" rx="18" fill="url(#grid)"/>
+  <path d="M48 55H66" stroke="#8CE0C0" stroke-width="3" stroke-linecap="round"/>
+  <path d="m61 49 6 6-6 6" stroke="#8CE0C0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="81" y="61" fill="#8CE0C0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="2">YAYA / AGENT WORKBENCH</text>
+  <text x="46" y="146" fill="#F1F6F4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="58" font-weight="650" letter-spacing="-2">Make agents</text>
+  <text x="46" y="209" fill="#8CE0C0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="58" font-weight="650" letter-spacing="-2">useful.</text>
+  <text x="49" y="261" fill="#A9BCC6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Tools, context, and interfaces for getting things done.</text>
+  <circle cx="54" cy="302" r="4" fill="#F4B588"/>
+  <text x="68" y="307" fill="#8FABB6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.1">BUILD SMALL. CONNECT WELL. KEEP LEARNING.</text>
+  <path d="M811 103H851Q871 103 871 123V167H904" stroke="#3D6C63" stroke-width="2"/>
+  <path d="M811 171H904" stroke="#8CE0C0" stroke-width="2"/>
+  <path d="M811 239H851Q871 239 871 219V175H904" stroke="#3D6C63" stroke-width="2"/>
+  <rect x="667" y="79" width="144" height="48" rx="9" fill="#15252D" stroke="#2F4A4B"/>
+  <rect x="667" y="147" width="144" height="48" rx="9" fill="#162C31" stroke="#527D70"/>
+  <rect x="667" y="215" width="144" height="48" rx="9" fill="#15252D" stroke="#2F4A4B"/>
+  <g fill="#B6D6CC" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">
+    <text x="689" y="108">01  tools</text>
+    <text x="689" y="176">02  context</text>
+    <text x="689" y="244">03  workflows</text>
+  </g>
+  <rect x="905" y="104" width="201" height="135" rx="15" fill="#14252C" stroke="#538678"/>
+  <path d="M1006 134V143" stroke="#8CE0C0" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="1006" cy="130" r="3.5" fill="#F4B588"/>
+  <rect x="977" y="144" width="58" height="39" rx="11" stroke="#8CE0C0" stroke-width="2.5"/>
+  <path d="M971 155v15m70-15v15" stroke="#8CE0C0" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="993" cy="161" r="3" fill="#8CE0C0"/>
+  <circle cx="1019" cy="161" r="3" fill="#8CE0C0"/>
+  <path d="M998 173h16" stroke="#8CE0C0" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="966" y="211" fill="#D8EAE3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.5">LET'S BUILD</text>
+  <circle cx="889" cy="171" r="4" fill="#8CE0C0"/>
+  <path d="m1118 249 16 7-7 3-3 8-6-18Z" fill="#F4B588"/>
+</svg>
