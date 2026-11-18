@@ -10,23 +10,23 @@ I build **agents, reusable skills, and the interfaces around them**.
 
 ## Selected projects
 
+**[github-gardener](https://github.com/yayapao/github-gardener)** · Care for your GitHub projects
+
+An Agent Skill for repository audits, README improvements, and Profile design.
+
+[Skill definition →](https://github.com/yayapao/github-gardener/blob/main/SKILL.md)
+
+**[lal](https://github.com/yayapao/lal)** · Keep local projects running
+
+A macOS workbench for dev servers and games, with logs, ports, and Git status in one place.
+
+[Download →](https://github.com/yayapao/lal/releases)
+
 **[app-harness](https://github.com/yayapao/app-harness)** · Agents inside your app
 
 Business tools, streaming chat, approvals, and session history. Bring your own model and storage.
 
 [Integration skill →](https://github.com/yayapao/app-harness/blob/main/.agents/skills/harness-integrator/SKILL.md)
-
-**[NextPier](https://github.com/yayapao/nextpier)** · Build with coding agents
-
-A Next.js starter with optional app-harness integration and a Wails desktop shell.
-
-[Agent guide →](https://github.com/yayapao/nextpier/blob/main/docs/ai-agent.md)
-
-**[dota2-skill](https://github.com/yayapao/dota2-skill)** · A skill for a game I enjoy
-
-Match history, hero data, and Chinese Dota 2 analysis via OpenDota.
-
-[Skill definition →](https://github.com/yayapao/dota2-skill/blob/main/SKILL.md)
 
 ## Current focus
 
